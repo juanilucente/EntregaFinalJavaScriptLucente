@@ -1,0 +1,47 @@
+[
+    {
+        "titulo": "Box Engasse",
+        "precio": "$15000",
+        "imagen": "img/boxengasse.png"
+    },
+    {
+        "titulo": "English Horse",
+        "precio": "$25000",
+        "imagen": "img/englishrose.png"
+    },
+    {
+        "titulo": "Knock Nap",
+        "precio": "$35000",
+        "imagen": "img/knocknap.png"
+    },
+    {
+        "titulo": "La Night",
+        "precio": "$18000",
+        "imagen": "img/lanight.png"
+    },
+    {
+        "titulo": "Silver All",
+        "precio": "$32000",
+        "imagen": "img/silverall.png"
+    },
+    {
+        "titulo": "Skin Glam",
+        "precio": "$18000",
+        "imagen": "img/skinglam.png"
+    },
+    {
+        "titulo": "Midimix",
+        "precio": "$54000",
+        "imagen": "img/midimix.png"
+    },
+    {
+        "titulo": "Sir Blue",
+        "precio": "$32000",
+        "imagen": "img/sirblue.png"
+    },
+    {
+        "titulo": "Middlesteel",
+        "precio": "$42800",
+        "imagen": "img/middlesteel.png"
+    }
+]
